@@ -1,1 +1,1 @@
-export const baseURL = "http://localhost:6092/api";
+export const baseURL = "https://fast-node-project.onrender.com/api";
